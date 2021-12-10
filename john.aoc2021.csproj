@@ -12,5 +12,9 @@
     <Content Include="DaysCode\Day2.cs" />
     <Content Include="DaysCode\Day3.cs" />
     <Content Include="DaysCode\Day4.cs" />
+    <Content Include="DaysCode\Day5.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="3.7.0.1" />
   </ItemGroup>
 </Project>
