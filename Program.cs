@@ -15,7 +15,11 @@ timer.Start();
 //Day5.SolvePart1(); 
 //Day5.SolvePart2(); 
 //Day6.SolvePart1();
-Day6.SolvePart2(timer);
+//Day6.SolvePart2(timer);
+//Day7.SolvePart1();
+//Day7.SolvePart2();
+
+Day8.SolvePart1();
 
 timer.Stop();
 Console.WriteLine($"RunTime:  {timer.ElapsedMilliseconds}ms");
